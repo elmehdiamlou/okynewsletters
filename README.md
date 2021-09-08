@@ -10,3 +10,5 @@ Laravel is primarily used for building custom web apps using PHP. It's a web fra
 Vue.js is an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications.
 <br><br>
 <p align="center"><img src="https://www.zupimages.net/up/21/25/k7us.png" width="600"></p>
+### 👍 If you liked this repository
+### ⭐ Feel free to leave a star 
